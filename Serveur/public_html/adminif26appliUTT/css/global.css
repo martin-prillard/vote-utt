@@ -1,0 +1,102 @@
+@font-face {
+font-family: ita;
+src: url(Italianno-Regular-OTF.otf);
+}
+@font-face {
+font-family: lato;
+src: url(Lato-Lig.ttf);
+}
+
+body {font-family: lato; font-size: 14px;margin:0;}
+#page {background:#ccc;min-height:800px;}
+#top {padding-top:10px;}
+#form {height:440px;margin-top:20px;}
+#form_bg{background:url(../images/bg_form_home.png);height:310px;}
+.input_form{width:323px; height:28px; border: #cfd2d5 solid 1px;}
+.label_form{color:#24272a; font-size:18px; margin-bottom:12px;padding-top:60px}
+.label_form2{color:#24272a; font-size:18px; margin-top:50px;margin-bottom:12px;}
+
+.link_add{color:green;text-decoration:none;}
+
+#deader{height:100%;background:white;}
+#header_top{background:#9ca3ab;height:22px;border-bottom:solid #83898e 1px;padding-top:6px;padding-left:8px;}
+#header_top span{color:#4c5055;font-size:13px;}
+#header_top .link_jaune{color:#ffe3b5;font-size:13px;text-decoration:none;}
+#contact_menu{float:right;}
+
+#header_mid{background:white;height:70px;border-bottom:solid #cdd4d9 1px;display:block;}
+#header_mid img{margin-top:19px;}
+#header_mid h1{margin-top:30px;}
+
+#header_menu{background:url(../images/bg_menu.png) repeat;height:38px;display:block;float:left;width:100%;}
+
+#content{background:#CDD4D9;height:auto;overflow:hidden;}
+#content_top{height:70px;float:left;width:100%;}
+#content_produits{float:left;width:100%;margin-bottom:70px;}
+#content_produits_center{margin:0 auto;width:1023px;padding:30px;background-image: url(../images/bg_content.png);height:auto;overflow:hidden;}
+
+.produits_labels{font-family:lato;font-size:30px;color:#595d61;text-decoration:none;margin:0;}
+
+.produit_conteneur{margin-bottom:40px;float:left;}
+.produit_label{float:left;width:100%;}
+.produit_hr{float:left;width:100%;height:1px;margin-top:15px;margin-bottom:25px;}
+.produit_image1{float:left;width:365px;height:230px;}
+.produit_image1 img{border:1px solid white;}
+.produit_description{float:left;width:610px;height:160px;margin-left:30px;}
+.produit_description p{margin:0; line-height:25px; font-size:14px;text-align:justify;}
+.produit_acceder{float:left;height:60px;margin-left:24px;}
+
+#content_footer{height:68px;width:100%;background:white;float:left;border-top:1px solid #d0d5da;}
+#logo_footer{float:left;display:block;border-right:1px solid #d0d5da;}
+#adresse{float:left;margin-left:20px;}
+#p_adresse{color:#757c82;font-size:14px;margin-top:12px;margin-bottom:0px;}
+#p_tel{color:#d5ba84;font-size:18px;margin-top:2px;}
+#links{float:right;margin-right:50px;margin-top:24px;}
+#links a {border-right-color:#757C82;border-right-style:solid; border-right-width:1px;  color:#D5BA84;  font-size:14px; padding-left:10px; padding-right:10px; text-decoration:none;}
+
+
+.produit_image1_fiche{float:left;width:1023px;height:356px;margin-bottom:20px;}
+.produit_image1_fiche img{border:1px solid white;width:1023px;height:356px;}
+
+.produit_image2_fiche{float:left;width:129px;height:80px;}
+.produit_image2_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image3_fiche{float:left;width:129px;height:80px; margin-left:20px;}
+.produit_image3_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image4_fiche{float:left;width:129px;height:80px;margin-left:20px;}
+.produit_image4_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image5_fiche{float:left;width:129px;height:80px;margin-left:20px;}
+.produit_image5_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image6_fiche{float:left;width:129px;height:80px;margin-left:20px;}
+.produit_image6_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image7_fiche{float:left;width:129px;height:80px;margin-left:20px;}
+.produit_image7_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_image8_fiche{float:left;width:129px;height:80px;margin-left:20px;}
+.produit_image8_fiche img{border:1px solid white;width:129px;height:80px;}
+
+.produit_description_fiche{float:left;width:1023px;height:auto;margin-top:20px;margin-bottom:30px;}
+.produit_description_fiche p{margin:0; line-height:25px; font-size:14px;text-align:justify;}
+
+.produit_prix_fiche{color:#c18f4c; font-size:32px;text-align:center;}
+
+.produit_acheter{float:left;height:60px;width:100%; margin-top:20px;}
+.produit_acheter a{display:block;margin:0 auto;width:330px;}
+
+
+
+
+.tab_admin{width:100%;border:1px solid white;}
+.tab_admin tr td.title{padding:10px;border:1px solid white;color:red;font-weight:bold;}
+.cell{padding:10px;border:1px solid white;color:black;font-weight:normal;}
+
+
+
+
+
+
+

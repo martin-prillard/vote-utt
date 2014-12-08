@@ -1,0 +1,6 @@
+<?php
+$BDD_hote="mysql.hostinger.fr";
+$BDD_nmDB="u265905541_if26";
+$BDD_user="u265905541_if26";
+$BDD_pass="if262012";
+?>
